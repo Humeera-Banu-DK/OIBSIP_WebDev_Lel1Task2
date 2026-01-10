@@ -51,5 +51,5 @@ animations, and portfolio presentation techniques.
 ---
 
 ## 👤 Author Details
-Name: Humeera Banu D K  
+Name:D K Humeera Banu  
 Domain: Web Development
